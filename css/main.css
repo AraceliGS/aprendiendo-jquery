@@ -6,13 +6,19 @@
     margin: 0;
 }
 
-/* Clases */
-
-.father {
-    margin-top: 0.8em;
-    margin-left: 5em;
+body {
+    font-size: 1.2em;
 }
 
-.button {
+/* Clases */
+
+#p-test {
+    margin-top: 0.8em;
+    margin-left: 1em;
+}
+
+#input-test {
     margin-top: 1.2em;
+    margin-left: 1.3em;
+    font-size: 0.8em;
 }
